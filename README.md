@@ -9,11 +9,11 @@
 ## Установка
 
 ```bash
-composer require 
+composer require rmulyukov/hw3
 ```
 
 ## Использование
 
 ```php
-
+echo (new \Rmulyukov\Hw3\HomeWork())->run();
 ```

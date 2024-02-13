@@ -1,0 +1,11 @@
+{
+    "name": "rmulyukov/hw3",
+    "description": "hw3 library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Rmulyukov\\Hw3\\": "src/"
+        }
+    },
+    "require": {}
+}
